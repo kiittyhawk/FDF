@@ -10,7 +10,7 @@ a result, be better prepared.
 
 It’s your turn today to modelize some 3D magnificent landscapes, imaginary or not.
 
-<!-- <img src="./image/Screen%20Shot%202021-06-14%20at%205.52.29%20PM.png" alt="jaeskim's Piscine Python Django Score!"/> -->
+<img src="./image/Снимок экрана от 2022-05-29 22-47-45.png" alt="jgyles's FDF project"/>
 
 It’s time for you to create a basic computer graphics project!
 
