@@ -1,23 +1,14 @@
 # FDF
 
-The representation in 3D of a landscape is a critical aspect of modern mapping. For
-example, in these times of spatial exploration, to have a 3D representation of Mars is a
-prerequisite condition to its conquest.
-
-As another example, comparing various 3D representations of an area of high tectonic
-activity will allow you to better understand these phenomena and their evolution, and as
-a result, be better prepared.
-
-It’s your turn today to modelize some 3D magnificent landscapes, imaginary or not.
+Данный проект позволил мне смоделировать несколько великолепных 3D-пейзажей, воображаемых или нет.
 
 <img src="./image/Снимок экрана от 2022-05-29 22-47-45.png" alt="jgyles's FDF project"/>
 
-It’s time for you to create a basic computer graphics project!
+Я использовала школьную графическую библиотеку: MiniLibX. Эта библиотека была
+разработана внутри компании и включает в себя основные необходимые инструменты для открытия окна, создания изображений
+и обработки событий клавиатуры и мыши.
 
-You are going to use the school graphical library: the MiniLibX! This library was
-developed internally and includes basic necessary tools to open a window, create images
-and deal with keyboard and mouse events.
+Это дало мне возможность познакомиться с MiniLibX, открыть для себя основы графического программирования, особенно как размещать точки в пространстве, соединять их и, самое главное, как видеть сцену с определенной точки зрения
 
-This will be the opportunity for you to get familiar with the MiniLibX, to discover the
-basics of graphics programming, especially how to place points in space, join them
-and, most important, how to see the scene from a specific viewpoin
+# Результат
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl394345u012209merytf2tfw/project/2386542" alt="jgyles's 42 FdF Score" /></a>
